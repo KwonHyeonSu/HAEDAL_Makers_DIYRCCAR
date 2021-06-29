@@ -2,7 +2,8 @@
 <br><br>
 
 <img src = "IMG/1.jpg" width = "300">
-<img src = "IMG/2.jpg" width = "300" align = "right">
+<img src = "IMG/2.jpg" width = "300">
+
 <br><br>
 ---
 
