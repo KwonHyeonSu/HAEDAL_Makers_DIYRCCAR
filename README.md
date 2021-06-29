@@ -1,8 +1,8 @@
 # HAEDAL_Makers_DIYRCCAR
 <br><br>
 
-<img src = "IMG/1.jpg" width = "350">
-<img src = "IMG/2.jpg" width = "350">
+<img src = "IMG/1.JPG" width = "350">
+<img src = "IMG/2.JPG" width = "350">
 
 <br><br>
 ---
